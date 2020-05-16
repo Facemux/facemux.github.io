@@ -14,7 +14,7 @@ p.exclusive {
 
 body {
   font-family: "Courier New", Courier, monospace;
-  background-color: turquoise;
+  background-color: red;
 }
 
 div.second > p.thisonly {
